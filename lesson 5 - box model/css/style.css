@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    border: 10px outset purple;
+    font-size: 1.5rem;
+    margin: 1.5em;
+/*  margin-top: 1.5em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em; */
+    padding: 1.5em;
+    outline: 5px solid green;
+    outline-offset: -20px;
+}
+
+.circle {
+    margin: 3rem auto;
+    background-color: gold;
+    width: 150px;
+    height: 150px;
+    border: 5px solid purple;
+    border-radius: 75px;
+    outline: 4px solid green;
+    outline-offset: 0.25rem;
+}
