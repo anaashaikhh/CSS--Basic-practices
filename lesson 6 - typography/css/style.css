@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+    color: darkblue;
+    font-weight: bold;
+    font-style: italic;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Dancing Script', cursive;
+}
+
+/* input, button {
+    font:inherit;
+} */
+
+p {
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5;
+}
